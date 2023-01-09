@@ -1,0 +1,14 @@
+{
+    "code": 1,
+    "msg": "获取产品",
+    "data": {
+        "create_time": 1617693749,
+        "id": 2,
+        "sn": "ST202104061522298257",
+        "order_status": 7,
+        "storage_status": 5,
+        "target_brand_id": 1,
+        "total_in_num": 2,
+        "total_out_num": 2
+    }
+}

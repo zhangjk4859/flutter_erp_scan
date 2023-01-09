@@ -1,0 +1,29 @@
+{
+    "code": 0,
+    "msg": "get_success",
+    "data": [
+        {
+            "id": 3,
+            "service_id": 23,
+            "service_code": "Purchase",
+            "service_name": "采购入库",
+            "organize_id": 3,
+            "user_id": 0,
+            "user_name": "",
+            "sn": "C000003000006",
+            "total_num": "19"
+        },
+        {
+            "id": 5,
+            "service_id": 19,
+            "service_code": "Sale",
+            "service_name": "销售出库",
+            "organize_id": 3,
+            "user_id": 0,
+            "user_name": "",
+            "sn": "2021-06-24-00090",
+            "total_num": "1"
+        }
+    ],
+    "count": 2
+}

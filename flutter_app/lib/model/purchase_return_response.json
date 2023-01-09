@@ -1,0 +1,17 @@
+{
+    "code": 1,
+    "msg": "获取产品",
+    "data": {
+        "id": 6,
+        "sn": "T000003000001",
+        "supplier": "上虞安格鲁传动系统有限公司 皮带",
+        "supplier_sn": "B000003",
+        "order_status": 0,
+        "storage_status": 0,
+        "total_num": 1,
+        "total_red_num": 0,
+        "total_scrap_num": 0,
+        "create_time": 1627319725,
+        "desc": null
+    }
+}

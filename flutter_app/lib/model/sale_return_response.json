@@ -1,0 +1,15 @@
+{
+    "code": 1,
+    "msg": "获取产品",
+    "data": {
+        "id": 5,
+        "buyer": "M000020",
+        "buyer_name": "上海鸿域贸易有限公司",
+        "sn": "2021-07-11-00106",
+        "order_status": 7,
+        "total_num": 3,
+        "total_red_num": 2,
+        "total_scrap_num": 0,
+        "complete_time": 1625977074
+    }
+}

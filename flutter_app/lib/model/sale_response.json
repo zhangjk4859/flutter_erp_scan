@@ -1,0 +1,25 @@
+{
+    "code": 1,
+    "msg": "获取产品",
+    "data": {
+        "id": 3,
+        "buyer_sn": "M000003",
+        "buyer_name": "上海环优信息科技有限公司",
+        "sn": "MC002021000001",
+        "order_status": 0,
+        "storage_status": 1,
+        "total_num": 2,
+        "buyer_num": 0,
+        "buyer_scan_num": 0,
+        "buyer_auto_num": 0,
+        "consignee": "12",
+        "phone": "13052529307",
+        "province": 310000,
+        "city": 0,
+        "district": 0,
+        "region": "上海市",
+        "address": "上海徐汇区肇嘉浜路1065号飞雕国际大厦1109室",
+        "zip_code": "",
+        "desc": "desc"
+    }
+}

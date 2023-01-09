@@ -1,0 +1,17 @@
+{
+    "code": 1,
+    "msg": "",
+    "data": [
+        {
+            "bar_code": "G00001500000015000004",
+            "relation_id": 0,
+            "relation_sn": "",
+            "model": "",
+            "action": "创建条码",
+            "content": "{\"bar_code\":\"G00001500000015000004\",\"goods_id\":12105,\"name\":\"YWKSB01\",\"class\":\"水泵\",\"brand\":\"施耐克\",\"store_location\":\"YWKSB01\",\"supplier_code\":\"WH01\",\"batch_code\":\"1\",\"batch_num\":\"10\",\"current_no\":4,\"state\":0}",
+            "username": "admin",
+            "create_by": 10000,
+            "create_time": 1627319857
+        }
+    ]
+}

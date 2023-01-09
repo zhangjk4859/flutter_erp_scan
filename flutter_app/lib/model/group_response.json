@@ -1,0 +1,18 @@
+{
+    "code": 1,
+    "msg": "",
+    "data": {
+        "organize": {
+            "name": "施耐克",
+            "desc": "施耐克"
+        },
+        "users": [
+            {
+                "username": "采购01",
+                "phone": "16602834601",
+                "email": "rongwang1@qq.com",
+                "organize_manage": 0
+            }
+        ]
+    }
+}

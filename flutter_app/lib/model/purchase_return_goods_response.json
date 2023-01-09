@@ -1,0 +1,23 @@
+{
+    "code": 0,
+    "msg": "get_success",
+    "data": [
+        {
+            "name": "测试",
+            "oe": "1",
+            "brand": "施耐克",
+            "class": "附件传动3",
+            "store_location": "PK0001",
+            "car": "现代",
+            "car_brand": "",
+            "num": 1,
+            "price": "15.62",
+            "red_num": 0,
+            "scrap_num": 0,
+            "confirm_price": "0.00",
+            "cost_price": "15.62",
+            "subtotal_price": "15.62"
+        }
+    ],
+    "count": 1
+}
